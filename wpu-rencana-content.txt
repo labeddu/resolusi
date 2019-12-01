@@ -1,5 +1,7 @@
 RENCANA KONTEN  WPU
 - video tentang java script
+   * ES6
+   * Framework JavaScript
 - PHP Framework
 - interview
 - Vlogs
